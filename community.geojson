@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.684688,135.50700189999998]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "DDD.rb"
+      }
+    }
+  ]
+}
